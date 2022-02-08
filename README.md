@@ -1,4 +1,4 @@
-# BreaKHis-400X: Precidt
+# BreaKHis-400X: Detection of breast cancer cells
 
 A Kaggle dataset.
 
