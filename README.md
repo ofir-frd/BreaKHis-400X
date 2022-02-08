@@ -17,13 +17,13 @@ Directory description:
 ```
 
 Root Dir/
-  - Breast-cancer-detection.ipynb
   - test
     - benign
     - malignant
   - train
     - benign
     - malignant
+  - Breast-cancer-detection.ipynb
   - README.md
   - LICENSE.md
   - .gitignore
