@@ -5,12 +5,12 @@ A Kaggle dataset.
 Breast cancer detection from microscopy images
 
 
-## About Data collection methodology
+## About Data Collection Methodology
 
 FA Spanhol, LS Oliveira, C. Petitjean and L. Heutte, "A Dataset for Breast Cancer Histopathological Image Classification," in IEEE Transactions on Biomedical Engineering, vol. 63, no. 7, pp. 1455-1462, July 2016, doi: 10.1109 / TBME.2015.2496264.
 
 
-### Description of the data
+### Description of The Data
 
 Directory description:
 
@@ -31,7 +31,7 @@ Root Dir/
 ```
 
 
-### File formats
+### File Formats
 
 Code is written in Python on Jupyter '.ipynb'.
 
