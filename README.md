@@ -42,7 +42,7 @@ Training data and test data with different folders, each file has a different sl
 
 ## Online Repository link
 
-* [DataRepository](https://www.kaggle.com/forderation/breakhis-400x)
+* [Data Repository](https://www.kaggle.com/forderation/breakhis-400x)
 
 ## Author
 
