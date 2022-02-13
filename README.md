@@ -30,6 +30,7 @@ Root Dir/
     - benign
     - malignant
   - Breast-cancer-detection.ipynb
+  - TensorBoard Training Example.png
   - README.md
   - LICENSE.md
   - .gitignore
