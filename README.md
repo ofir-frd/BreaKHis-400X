@@ -23,13 +23,13 @@ Directory description:
 ```
 
 Root Dir/
+  - runs
   - test
     - benign
     - malignant
   - train
     - benign
     - malignant
-  - runs
   - Breast-cancer-detection.ipynb
   - TensorBoard Training Example.png
   - README.md
